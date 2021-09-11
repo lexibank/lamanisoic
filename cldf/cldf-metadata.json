@@ -12,12 +12,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Lama's \"Subgrouping of Nisoic (Yi) Languages\" from 2012",
-    "dcat:accessURL": "https://lingulist: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@github.com/lexibank/lamayi",
+    "dcat:accessURL": "https://github.com/lexibank/lamanisoic",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://lingulist: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@github.com/lexibank/lamayi",
+            "rdf:about": "https://github.com/lexibank/lamanisoic",
             "rdf:type": "prov:Entity",
-            "dc:created": "345b4db",
+            "dc:created": "4dc2a49",
             "dc:title": "Repository"
         },
         {
