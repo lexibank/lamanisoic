@@ -1,0 +1,42 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
+PL,*PL,lolo1267,Loloish,,,,,Sino-Tibetan
+PLB,*PLB,lolo1265,Lolo-Burmese,,,,,Sino-Tibetan
+PLBMatisoff,*PLB(Matisoff),lolo1265,Lolo-Burmese,,,,,Sino-Tibetan
+PN,*PN,niso1234,Nisoid,,,,,Sino-Tibetan
+Achang,Achang,acha1249,Longchuan Achang,acn,Eurasia,24.3479,97.7438,Sino-Tibetan
+Axi,Axi,axiy1235,Axi Yi,yix,Eurasia,24.6009,103.713,Sino-Tibetan
+Azha,Azha,azha1235,Azha,aza,Eurasia,23.9,104.15,Sino-Tibetan
+Azhe,Azhe,azhe1235,Azhe,yiz,Eurasia,24.405,103.441,Sino-Tibetan
+Bisu,Bisu,bisu1244,Bisu,bzi,Eurasia,20.8542,99.9862,Sino-Tibetan
+Gepu,Gepu,gepo1234,Gepo,ygp,Eurasia,25.7,102.5,Sino-Tibetan
+Hani,Hani,hani1248,Hani,hni,Eurasia,22.67753,102.851673333,Sino-Tibetan
+Haoni,Haoni,honi1244,Honi,how,Eurasia,23.2074,101.886,Sino-Tibetan
+Jinuo,Jinuo,youl1235,Youle Jinuo,jiu,Eurasia,22.0473,101.057,Sino-Tibetan
+Kazhuo,Kazhuo,kats1235,Katso,kaf,Eurasia,24.6,102.4,Sino-Tibetan
+Lahu,Lahu,lahu1253,Lahu,lhu,Eurasia,21.2701,100.214,Sino-Tibetan
+Laluba,Laluba,lalo1240,Lalo,,,,,Sino-Tibetan
+Lavu,Lavu,talu1238,Lavu-Yongsheng-Talu,yta,Eurasia,26.4,101.0,Sino-Tibetan
+Lipo,Lipo,lipo1242,Lipo,lpo,Eurasia,25.226,101.302,Sino-Tibetan
+Lisu,Lisu,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan
+Lolopo,Lolopo,lolo1259,Lolopo,ycl,Eurasia,25.50051,101.30185,Sino-Tibetan
+Lope,Lope,awuu1235,Southern Awu (Lope),yiu,Eurasia,25.395,103.306,Sino-Tibetan
+Maang,Maang,maan1239,Maang,,Eurasia,23.555104,105.70091,Sino-Tibetan
+Mondzi,Mondzi,mond1267,Mondzi,,Eurasia,23.446095,105.416304,Sino-Tibetan
+Namuzi,Namuzi,pumi1242,Pumi,,,,,Sino-Tibetan
+Nasu,Nasu,wudi1238,Wuding-Luquan Yi,ywq,Eurasia,25.48,102.48,Sino-Tibetan
+Naxi,Naxi,naxi1245,Naxi,nxq,Eurasia,27.5,100.0,Sino-Tibetan
+Nesu,Nesu,nesu1235,Nesu,,,,,Sino-Tibetan
+Niesu,Niesu,,,,,,,
+Nishu,Nishu,,,,,,,
+Nisu,Nisu,nisu1237,Nisu-Nyisu,,,,,Sino-Tibetan
+Nuosu,Nuosu,sich1238,Sichuan Yi,iii,Eurasia,28.1947,102.121,Sino-Tibetan
+Nusu,Nusu,nusu1239,Nusu,nuf,Eurasia,26.7292,98.8801,Sino-Tibetan
+Polo,Polo,phol1235,Pholo,yip,Eurasia,23.667,104.238,Sino-Tibetan
+Rouruo,Rouruo,zauz1238,Zauzou,zal,Eurasia,26.4572,98.8634,Sino-Tibetan
+Sangkong,S.kong,sang1320,Sangkong,sgk,Eurasia,21.64,100.77,Sino-Tibetan
+Samu,Samu,sama1295,Samatao,ysd,Eurasia,25.012,102.2,Sino-Tibetan
+Sani,Sani,sani1269,Sani,ysn,Eurasia,24.278,103.759,Sino-Tibetan
+Toloza,Toloza,tang1372,Tanglang-Toloza,ytl,Eurasia,26.9,99.9,Sino-Tibetan
+WrittenBurmese,WB,nucl1310,Burmese,mya,Eurasia,20.7926,93.9665,Sino-Tibetan
+Zaiwa,Zaiwa,zaiw1241,Zaiwa,atb,Eurasia,24.1726,98.3643,Sino-Tibetan
+Zuoke,Zuoke,zokh1238,Zokhuo,yzk,Eurasia,23.8,104.8,Sino-Tibetan

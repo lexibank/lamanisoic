@@ -1,0 +1,302 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_autonym,Autonym,3433,AUTONYM (OF PEOPLE)
+2_sky,Sky,1732,SKY
+3_earth,Earth,2159,GROUND
+4_sun,Sun,1343,SUN
+5_moon,Moon,1313,MOON
+6_star,Star,1430,STAR
+7_air,Air,27,AIR
+8_thundering,Thundering,2378,THUNDER (VERB)
+9_lightening,Lightening,1654,LIGHTNING
+10_earthquake,Earthquake,6,EARTHQUAKE
+11_cloud,Cloud,1489,CLOUD
+12_wind,Wind,960,WIND
+13_rain,Rain,658,RAIN (PRECIPITATION)
+14_snow,Snow,784,SNOW
+15_water,Water,948,WATER
+16_mountain,Mountain,639,MOUNTAIN
+17_cliff,Cliff,992,CLIFF
+18_fire,Fire,221,FIRE
+19_firesmoke,(fire) Smoke,778,SMOKE (EXHAUST)
+20_gold,Gold,1369,GOLD
+21_silver,Silver,759,SILVER
+22_copper,Copper,1825,COPPER
+23_iron,Iron,621,IRON
+24_stone,Stone,857,STONE
+25_year,Year,1226,YEAR
+26_month,Month,1370,MONTH
+27_day,Day,1225,DAY (NOT NIGHT)
+28_humanbeing,Human being,683,PERSON
+29_adult,Adult,3635,ADULT
+30_speech,Speech,1115,SPEECH
+31_life,Life,210,LIFE
+32_physicalstrength,Physical strength,202,STRENGTH
+33_dream,Dream,2374,DREAM
+34_spiritsoul,"Spirit, Soul",811,SOUL
+35_acelestialbeing,A celestial being,1944,GOD
+36_ghost,Ghost,1175,GHOST
+37_corpse,Corpse,767,CORPSE
+38_medicine,Medicine,1372,MEDICINE
+39_body,Body,1480,BODY
+40_head,Head,1256,HEAD
+41_hair,Hair,2648,HAIR (HEAD)
+42_eye,Eye,1248,EYE
+43_nose,Nose,1221,NOSE
+44_ear,Ear,1247,EAR
+45_mouth,Mouth,674,MOUTH
+46_tooth,Tooth,1380,TOOTH
+47_tongue,Tongue,1205,TONGUE
+48_hand,Hand,1277,HAND
+49_belly,Belly,1251,BELLY
+50_waist,Waist,1681,WAIST
+51_foot,Foot,1301,FOOT
+52_bone,Bone,1394,BONE
+53_skin,Skin,763,SKIN
+54_blood,Blood,946,BLOOD
+55_stomach,Stomach,819,STOMACH
+56_heart,Heart,1223,HEART
+57_liver,Liver,1224,LIVER
+58_lung,Lung,688,LUNG
+59_gallbladder,Gall bladder,3372,GALL BLADDER
+60_intestine,Intestine,1991,INTESTINES
+61_tail,Tail,1220,TAIL
+62_mole,Mole,,
+63_sinew,Sinew,1137,TENDON
+64_sweat,Sweat,125,SWEAT (SUBSTANCE)
+65_pus,Pus,1808,PUS
+66_excrement,Excrement,675,FAECES (EXCREMENT)
+67_urine,Urine,1142,URINE
+68_father,Father,1217,FATHER
+69_mother,Mother,1216,MOTHER
+70_mothersbrothers,Mother’s brothers,2692,MATERNAL UNCLE (MOTHER'S BROTHER)
+71_son,Son,1620,SON
+72_daughter,Daughter,1357,DAUGHTER
+73_brothersson,Brother’s son,,
+74_money,Money,1559,MONEY
+75_seed,Seed,714,SEED
+76_foodcookedrice,Food; cooked rice,1191,COOKED RICE
+77_paddyrice,Paddy rice,3390,WILD RICE
+78_buckwheat,Buckwheat,2040,BUCKWHEAT
+79_barley,Barley,932,BARLEY
+80_wheat,Wheat,1077,WHEAT
+81_soybean,Soybean,2028,SOYA BEAN
+82_mushroom,Mushroom,641,MUSHROOM
+83_porkoil,(pork) Oil,2557,PIG FAT
+84_salt,Salt,1274,SALT
+85_liquor,Liquor,404,ALCOHOL (FERMENTED DRINK)
+86_meat,Meat,634,MEAT
+87_road,Road,667,ROAD
+88_bridge,Bridge,1011,BRIDGE
+89_house,House,1252,HOUSE
+90_bed,Bed,1663,BED
+91_door,Door,1567,DOOR
+92_pants,Pants,809,TROUSERS
+93_needle,Needle,1382,NEEDLE (FOR SEWING)
+94_thread,Thread,1161,THREAD
+95_cattle,Cattle,1153,CATTLE
+96_horse,Horse,615,HORSE
+97_sheep,Sheep,1331,SHEEP
+98_goat,Goat,1502,GOAT
+99_chicken,Chicken,1318,CHICKEN
+100_wing,Wing,1257,WING
+101_egg,Egg,744,EGG
+102_pig,Pig,1337,PIG
+103_dog,Dog,2009,DOG
+104_louse,Louse,1392,LOUSE
+105_cat,Cat,1208,CAT
+106_monkey,Monkey,1350,MONKEY
+107_tiger,Tiger,846,TIGER
+108_leopard,Leopard,1139,LEOPARD
+109_barkingdeer,Barking deer,3152,MUNTJACS
+110_riverdeer,River deer,,
+111_fox,Fox,1312,FOX
+112_rabbit,Rabbit,1136,RABBIT
+113_mouse,Mouse,1491,MOUSE
+114_snake,Snake,730,SNAKE
+115_worm,Worm,1219,WORM
+116_bird,Bird,937,BIRD
+117_hawk,Hawk,307,HAWK
+118_bee,Bee,665,BEE
+119_frog,Frog,503,FROG
+120_fish,Fish,227,FISH
+121_tree,Tree,906,TREE
+122_root,Root,670,ROOT
+123_leaf,Leaf,628,LEAF
+124_bamboo,Bamboo,1927,BAMBOO
+125_flower,Flower,239,FLOWER
+126_grass,Grass,606,GRASS
+127_thorn,Thorn,124,THORN
+128_speak,Speak,1623,SPEAK
+129_laugh,Laugh,1355,LAUGH
+130_cry,Cry,1839,CRY
+131_scold,Scold,299,SCOLD
+132_sit,Sit,1649,SIT DOWN
+133_closeeyes,Close (eyes),2063,CLOSE (EYES)
+134_blownose,Blow (nose),2679,BLOW (WITH NOSE)
+135_chewbite,"Chew, bite 嚼,",1403,BITE
+136_licklap,"Lick, lap",319,LICK
+137_swallow,Swallow,897,SWALLOW
+138_blowfire,Blow (fire),176,BLOW (WITH MOUTH)
+139_come,Come,1446,COME
+140_arrive,Arrive,1387,ARRIVE
+141_jumppulse,"Jump, pulse 跳 (高),",1829,JUMP
+142_watch,Watch,1819,LOOK
+143_listen,Listen,1608,LISTEN
+144_eat,Eat,1336,EAT
+145_drink,Drink,1401,DRINK
+146_sleep,Sleep,1585,SLEEP
+147_standuprise,"Stand up, rise",1442,STAND
+148_ride,Ride,367,RIDE
+149_wearahatshoes,Wear (a hat /shoes),3428,WEAR (ON HEAD)
+150_wearagarment,Wear (a garment),976,WEAR
+151_carryontheback,Carry on the back,465,CARRY ON BACK
+152_burn,Burn,2102,BURN
+153_climbupatree,Climb up (a tree),1102,CLIMB
+154_give,Give,1447,GIVE
+155_losesth,Lose (sth.),3072,MISPLACE
+156_pickupsth,Pick up (sth.),371,PICK UP
+157_lookforsth,Look for (sth.),1468,LOOK FOR
+158_steal,Steal,713,STEAL
+159_robloot,"Rob, loot",2073,ROB (VERB)
+160_chaseafter,Chase after,1435,HUNT
+161_pushshove,"Push, shove",1452,PUSH
+162_hideselfsth,"Hide (self, sth.)",2486,HIDE
+163_frightenscare,"Frighten, scare",2109,FEAR OR FRIGHTEN
+164_hitsomeone,Hit (someone),1433,HIT
+165_kill,Kill,1417,KILL
+166_jabpoke,"Jab, poke",,
+167_shootanarrow,Shoot (an arrow),1172,SHOOT
+168_whetaknife,Whet (a knife),251,SHARPEN (SOMETHING)
+169_chopdownatree,Chop down (a tree),355,CUT DOWN
+170_presspushdown,"Press, push down",1913,PRESS
+171_kneaddough,Knead (dough),274,KNEAD
+172_twisthempfibers,Twist (hemp fibers),430,TWIST
+173_braid,Braid,1043,BRAID
+174_weaveabasket,Weave (a basket),133,WEAVE
+175_pullupweeds,Pull up (weeds),3548,PULL UP WEEDS
+176_shavethehead,Shave (the head),231,SHAVE
+177_sievesift,"Sieve, sift",86,SIEVE
+178_pestlepound,"Pestle, pound",,
+179_ladleoutscoopup,"Ladle out, scoop up",,
+180_sweepfloor,Sweep (floor),230,SWEEP
+181_openthedoor,Open (the door),1156,OPEN
+182_shutthedoor,Shut (the door),1046,SHUT
+183_holdinthearms,Hold in the arms,928,EMBRACE
+184_rollupcloth,Roll up (cloth),,
+185_pullorleadcaw,Pull or Lead (caw),43,LEAD (GUIDE)
+186_digout,Dig out,1418,DIG
+187_domake,"Do, make",2575,DO OR MAKE
+188_threadaneedle,Thread (a needle),,
+189_putouttopasture,Put out to pasture,2031,PUT OUT TO PASTURE
+190_dye,Dye,157,DYE
+191_washfaceclothes,Wash (face/clothes),1453,WASH
+192_leakbarrel,Leak (barrel),2253,DRIP (EMIT LIQUID)
+193_dryclothesinthesun,Dry (clothes in the sun),3364,DRY IN SUN
+194_warmoneselfbyfire,Warm oneself by fire,2032,WARM UP
+195_fumigate,Fumigate,,
+196_rest,Rest,168,REST
+197_turnoveronbed,Turn over (on bed),3537,TURN OVER
+198_combv,Comb (v.),1475,COMB
+199_takeoffclothes,Take off (clothes),1755,UNDRESS
+200_exchangechange,"Exchange, change 交换,",,
+201_choose,Choose,1750,CHOOSE
+202_raiselivestock,Raise (livestock),,
+203_crawlonthefloor,Crawl (on the floor),96,CRAWL
+204_growup,Grow up,552,GROW UP
+205_play,Play,1413,PLAY
+206_callsb,Call (sb.) 叫,1084,CALL
+207_buy,Buy,1869,BUY
+208_sell,Sell,1571,SELL
+209_borrowtoolmoney,Borrow (tool/money) 借,1823,BORROW
+210_ownmoney,Own (money),684,OWN
+211_havemoney,Have (money),773,HAVE
+212_beathome,Be at (home),,
+213_be,Be,1579,BE
+214_knowhowtodo,Know how to do,972,BE ABLE
+215_stickdownglue,"Stick down, glue",254,STICKING
+216_sunrise,Sunrise,2296,SUNRISE
+217_windblow,(wind) Blow,175,BLOW (OF WIND)
+218_snowrainfall,"(snow, rain) Fall",2234,FALL (OF SNOW AND RAIN)
+219_float,Float,1574,FLOAT
+220_blossomflowers,Blossom (flowers),3287,BLOOM
+221_bearfruit,Bear (fruit),3054,BEAR FRUIT
+222_dropleaves,Drop (leaves),2866,DROP (SOMETHING)
+223_collapsehouse,Collapse (house),,
+224_horsescarryloads,(Horses) Carry (loads),,
+225_fly,Fly,1441,FLY (MOVE THROUGH AIR)
+226_waspssting,(wasps) Sting,571,STING
+227_snowdissolve,(snow) Dissolve,,
+228_water,(water),792,BOIL (OF LIQUID)
+229_sick,Sick,2327,BECOME SICK
+230_feeldizzyorgiddy,Feel dizzy or giddy,2712,GET DIZZY
+231_tissueswell,(tissue) Swell,1573,SWELL
+232_contaminate,Contaminate,,
+233_cookdecoct,"Cook, decoct 煮,",1100,COOK (SOMETHING)
+234_die,Die,1494,DIE
+235_teach,Teach,709,TEACH
+236_learn,Learn,504,LEARN
+237_write,Write,1672,WRITE
+238_countnumbers,Count (numbers),1420,COUNT
+239_resemble,Resemble,1777,RESEMBLE
+240_recognizesb,Recognize (sb.),2248,KNOW (SOMEBODY)
+241_big,Big,1202,BIG
+242_small,Small,1246,SMALL
+243_long,Long,1203,LONG
+244_short,Short,1645,SHORT
+245_wideindiameter,Wide (in diameter),2151,COARSE
+246_thinindiameter,Thin (in diameter),2157,FINE OR THIN
+247_thick,Thick,1244,THICK
+248_thin,Thin,2306,THIN (OF LEAF AND CLOTH)
+249_far,Far,1406,FAR
+250_near,Near,1942,NEAR
+251_manymuch,"Many, much",1198,MANY
+252_deepwater,Deep (water),1593,DEEP
+253_shallowwater,Shallow (water),193,SHALLOW
+254_straightstick,Straight (stick) (木条),1404,STRAIGHT
+255_bentcrooked,"Bent, crooked",297,CROOKED
+256_lightweight,Light (weight),1052,LIGHT (WEIGHT)
+257_heavy,Heavy,1210,HEAVY
+258_soft,Soft,1856,SOFT
+259_hard,Hard,1884,HARD
+260_dryadj,Dry (adj.),1398,DRY
+261_wet,Wet,1726,WET
+262_meatfat,(meat) Fat,2449,FAT (OF MEAT AND FOOD)
+263_new,New,1231,NEW
+264_oldused,"Old, used",2113,OLD (USED)
+265_black,Black,163,BLACK
+266_white,White,1335,WHITE
+267_red,Red,156,RED
+268_yellow,Yellow,1424,YELLOW
+269_coldweatherwater,"Cold (weather, water)",1287,COLD
+270_hotweather,Hot (weather),1286,HOT
+271_sour,Sour,1906,SOUR
+272_sweet,Sweet,717,SWEET
+273_bittersalty,"Bitter, Salty 苦,",1091,SALTY
+274_thirsty,Thirsty,847,THIRSTY
+275_overeat,Overeat,106,SATIATED
+276_hungry,Hungry,1533,BE HUNGRY
+277_enough,Enough,1881,ENOUGH
+278_befilledupwithwater,Be filled up (with water),,
+279_itchy,Itchy,3856,ITCH OR ITCHY OR ITCHING
+280_drunken,Drunken,1463,DRUNK
+281_insane,Insane,,
+282_slipperyroad,Slippery (road),3702,SLIPPERY
+283_poor,Poor,1674,POOR
+284_rich,Rich,712,RICH
+285_sharpknife,Sharp (knife),1396,SHARP
+286_ime,"I, me",1209,I
+287_you,You,1215,THOU
+288_heshe,"He, she 他,",2642,HE OR SHE
+289_one,One,1493,ONE
+290_two,Two,1498,TWO
+291_three,Three,492,THREE
+292_four,Four,1500,FOUR
+293_five,Five,493,FIVE
+294_six,Six,1703,SIX
+295_seven,Seven,1704,SEVEN
+296_eight,Eight,1705,EIGHT
+297_nine,Nine,1483,NINE
+298_ten,Ten,1515,TEN
+299_hundred,Hundred,1634,HUNDRED
+300_pairclshoes,"Pair (CL, shoes)",2089,PAIR (CLASSIFIER)
+301_clforpersons,CL (for persons),516,PERSON (CLASSIFIER)

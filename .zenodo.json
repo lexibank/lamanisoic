@@ -1,0 +1,37 @@
+{
+    "title": "CLDF dataset derived from Lama's \"Subgrouping of Nisoic (Yi) Languages\" from 2012",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Lama, Ziwo Q.-F."
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Nathan W. Hill",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lama, Ziwo Q.-F. (2012). Subgrouping of Nisoic (Yi) Languages: A Study from the Perspectives of Shared Innovation and Phylogenetic Estimation. Ph.D. Thesis. The University of Texas at Arlington.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
