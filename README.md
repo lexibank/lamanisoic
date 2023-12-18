@@ -33,7 +33,7 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 53,081
-- **Segments:** 137 (0 BIPA errors, 0 CLTS sound class errors, 136 CLTS modified)
+- **Segments:** 137 (0 BIPA errors, 0 CTLS sound class errors, 136 CLTS modified)
 - **Inventory size (avg):** 48.51
 
 # Contributors
@@ -41,9 +41,7 @@ Conceptlists in Concepticon:
 Name | GitHub user | Description | Role
  --- | --- | --- | ----
 Lama, Ziwo Q.-F. | | original data collection | Author
-Tiago Tresoldi | @tresoldi | patron, coding | Other 
 Johann-Mattis List | @lingulist | coding | Other
-Nathan W. Hill | | data extraction | Other
 
 
 
