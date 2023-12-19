@@ -1,5 +1,7 @@
 # CLDF dataset derived from Lama's "Subgrouping of Nisoic (Yi) Languages" from 2012
 
+[![CLDF validation](https://github.com/lexibank/lamanisoic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/lamanisoic/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -20,6 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/lamanisoic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/lamanisoic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
 ![Concepticon: 94%](https://img.shields.io/badge/Concepticon-94%25-green.svg "Concepticon: 94%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -33,7 +36,7 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 53,081
-- **Segments:** 137 (0 BIPA errors, 0 CTLS sound class errors, 136 CLTS modified)
+- **Segments:** 137 (0 BIPA errors, 0 CLTS sound class errors, 136 CLTS modified)
 - **Inventory size (avg):** 48.51
 
 # Contributors
